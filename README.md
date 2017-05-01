@@ -1,10 +1,19 @@
+[![header](./header.png)](https://business.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android-logo)
 # Paper Onboarding for Android
 [![CircleCI](https://circleci.com/gh/Ramotion/paper-onboarding-android.svg?style=svg)](https://circleci.com/gh/Ramotion/paper-onboarding-android)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed1eb5c89dfc45eabb80e93c6a124012)](https://www.codacy.com/app/Ramotion/paper-onboarding-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ramotion/paper-onboarding-android&amp;utm_campaign=Badge_Grade)
 [![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
-![Animation](onboarding_preview.gif)
 
-The [Android mockup](https://store.ramotion.com/product/htc-one-a9-mockups?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android) available [here](https://store.ramotion.com/product/htc-one-a9-mockups?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android).
+## About
+This project is maintained by Ramotion, Inc.<br>
+We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br><br>**Looking for developers for your project?** 
+
+<a href="https://business.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android-contact-us/#Get_in_Touch" > <img src="https://github.com/Ramotion/navigation-stack/raw/master/contact_our_team@2x.png" width="150" height="30"></a>
+
+
+[![Animation](onboarding_preview.gif)](https://dribbble.com/shots/2694049-Pagination-Controller-Open-Source)
+
+The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android).
 
 ## Requirements
 ​
@@ -17,18 +26,18 @@ Just download the package from [here](http://central.maven.org/maven2/com/ramoti
 ​
 Gradle:
 ```groovy
-'com.ramotion.paperonboarding:paper-onboarding:1.0.0'
+'com.ramotion.paperonboarding:paper-onboarding:1.1.0'
 ```
 SBT:
 ```scala
-libraryDependencies += "com.ramotion.paperonboarding" % "paper-onboarding" % "1.0.0"
+libraryDependencies += "com.ramotion.paperonboarding" % "paper-onboarding" % "1.1.0"
 ```
 Maven:
 ```xml
 <dependency>
     <groupId>com.ramotion.paperonboarding</groupId>
     <artifactId>paper-onboarding</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <type>aar</type>
 </dependency>
 ```
@@ -89,9 +98,7 @@ Currently, there are three listeners that cover all events - onRightOut, onLeftO
 Paper onboarding is released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 ​
-## About
-The project maintained by [app development agency](https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android) [Ramotion Inc.](https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android)
-See our other [open-source projects](https://github.com/ramotion) or [hire](https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android) us to design, develop, and grow your product.
-​
+## Follow Us
+
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/paper-onboarding-android)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)

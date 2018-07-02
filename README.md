@@ -1,10 +1,12 @@
 ![header](./header.png)
-![Animation](onboarding_preview.gif)
+<img src="https://github.com/Ramotion/paper-onboarding-android/blob/master/onboarding_preview.gif" width="600" height="450" />
+<br><br/>
 
 # Paper Onboarding for Android
 [![CircleCI](https://circleci.com/gh/Ramotion/paper-onboarding-android.svg?style=svg)](https://circleci.com/gh/Ramotion/paper-onboarding-android)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed1eb5c89dfc45eabb80e93c6a124012)](https://www.codacy.com/app/Ramotion/paper-onboarding-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ramotion/paper-onboarding-android&amp;utm_campaign=Badge_Grade)
 [![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Ramotion)
 
 # Check this library on other platforms:
 <a href="https://github.com/Ramotion/paper-onboarding"> 
@@ -13,7 +15,7 @@
 **Looking for developers for your project?**<br>
 This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
-<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-android-contact-us"> 
+<a href="mailto:alex.a@ramotion.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
 
 
@@ -97,6 +99,10 @@ onBoardingFragment.setOnRightOutListener(new PaperOnboardingOnRightOutListener()
 ```
 Currently, there are three listeners that cover all events - onRightOut, onLeftOut and onChange; see code examples and usage in the repo.
 
+<br>
+
+This library is a part of a <a href="https://github.com/Ramotion/android-ui-animation-components-and-libraries"><b>selection of our best UI open-source projects.</b></a>
+
 ## Licence
 ​
 Paper onboarding is released under the MIT license.
@@ -109,7 +115,7 @@ Try our UI components in our mobile app. Contact us if interested.
 
 <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
 <img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="104" height="34"></a>
-<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=paper-onboarding-contact-us"> 
+<a href="mailto:alex.a@ramotion.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <br>
